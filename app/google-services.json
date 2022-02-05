@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843223295893",
+    "firebase_url": "https://automated-gardener-default-rtdb.firebaseio.com",
+    "project_id": "automated-gardener",
+    "storage_bucket": "automated-gardener.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843223295893:android:585a6da9a446ed386e789c",
+        "android_client_info": {
+          "package_name": "com.example.yingxaogardener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843223295893-fjqcn54tcuiao11mh9squqkkacv64iiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPbLyYOex34lLxHBYLu5PZJ6ln-MbFFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843223295893-fjqcn54tcuiao11mh9squqkkacv64iiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

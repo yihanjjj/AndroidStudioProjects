@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YingXaoGardener</string>
+    <string name="Login">Login</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Or">Or</string>
+    <string name="EnterHint">Enter Username</string>
+    <string name="ProductidHint">Enter Product ID</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="Logout">Log out</string>
+    <string name="plantType">Choose a plant</string>
+    <string name="submit">Submit</string>
+    <string-array name="plantList">
+        <item>tulip</item>
+        <item>lily</item>
+    </string-array>
+</resources>
